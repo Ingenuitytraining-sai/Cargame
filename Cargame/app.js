@@ -7,8 +7,6 @@ onload = ()=>{
   const carH = 92;
   let x = 20;
   let y = 20;
-  let y1=20;
-  let x1=32;
   let speed = 2;
   let dir = 0;
   let mod = 0;
